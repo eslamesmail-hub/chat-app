@@ -1,16 +1,17 @@
 # chat_app
 
-A new Flutter application.
+a chat app with login, sign-up screens, and image picker so you can chat with your photo.
 
-## Getting Started
+![1_200x](https://user-images.githubusercontent.com/70852067/112381539-5c650d00-8cf3-11eb-9c23-8dce9948a62d.png)
+![2_200x](https://user-images.githubusercontent.com/70852067/112381542-5e2ed080-8cf3-11eb-9ffa-2df5aecf1820.png)
+![3_200x](https://user-images.githubusercontent.com/70852067/112381545-5f5ffd80-8cf3-11eb-8a03-0eb1076dcac6.png)  
 
-This project is a starting point for a Flutter application.
+CloudFirestore  
+StreamBuilder  
+Firebase Authentication  
+Image Picker  
+Firebase Storage  
+CloudFirestore Security Rules  
+Firebase Cloud Messaging (FCM)  
+Flutter Launcher Icons
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
